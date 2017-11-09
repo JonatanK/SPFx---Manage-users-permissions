@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/permissionsManagement/PermissionsManagementWebPart.js",
+      "manifest": "./src/webparts/permissionsManagement/PermissionsManagementWebPart.manifest.json",
+      "outputPath": "./dist/permissions-management-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "PermissionsManagementWebPartStrings": "webparts/permissionsManagement/loc/{locale}.js"
+  }
+}

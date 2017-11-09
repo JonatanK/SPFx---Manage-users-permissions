@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "permissions-management-client-side-solution",
+    "id": "1d90c96b-db1b-46de-83e2-f83af07b1429",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/permissions-management.sppkg"
+  }
+}
