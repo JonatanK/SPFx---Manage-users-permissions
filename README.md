@@ -1,6 +1,6 @@
-## permissions-management
+# SPFx - SharePoint users permissions management
 
-This is where you include your WebPart documentation.
+Use this SPFx SharePoint webpart to manage users in multiples site collections security groups
 
 ### Building the code
 
@@ -17,10 +17,8 @@ This package produces the following:
 * dist/* - the bundled script, along with other resources
 * deploy/* - all resources which should be uploaded to a CDN.
 
-### Build options
+### Gulp tasks
 
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
+gulp serve
+gulp bundle
+gulp package-solution
